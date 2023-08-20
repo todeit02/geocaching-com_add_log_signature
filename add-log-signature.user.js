@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name                Add log signature
 // @version				0.0.1
+// @namespace	        https://github.com/todeit02/geocaching-com_add_log_signature
+// @description	        Automatically adds your signature when creating logs on geocaching.com. With configurable content and desired log types.
 // @grant				GM_registerMenuCommand
 // @require             https://openuserjs.org/src/libs/sizzle/GM_config.js
 // @grant               GM_getValue
